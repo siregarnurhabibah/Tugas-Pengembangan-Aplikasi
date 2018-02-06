@@ -1,4 +1,4 @@
-# Company Inventory 
+# Global Store 
 
 ## Identifikasi stakeholder
 1.  Pemilik
